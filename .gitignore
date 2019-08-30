@@ -1,0 +1,8 @@
+node_modules
+public_html/local/frontend/package-lock.json
+public_html/bitrix/
+public_html/upload/
+public_html/test/
+public_html/robots.txt
+public_html/.htaccess
+public_html/sitemap*
